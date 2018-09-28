@@ -1,0 +1,6 @@
+npm init >> cria o package json
+npm install
+	express --save >> realiza a instalação e insere no package json a dependência
+	nodemon -g >> 
+	consign --save >> inclusão de rotas
+ 	body-parser --save >> captura corpo das requisicoes http

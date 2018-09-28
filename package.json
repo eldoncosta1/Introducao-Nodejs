@@ -1,0 +1,24 @@
+{
+  "name": "restfull-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:eldoncosta1/Restfull-Nodejs.git"
+  },
+  "author": "Eldon Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldoncosta1/Restfull-Nodejs/issues"
+  },
+  "homepage": "https://github.com/eldoncosta1/Restfull-Nodejs/issues#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "express": "^4.16.3"
+  }
+}
