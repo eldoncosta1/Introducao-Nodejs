@@ -4,3 +4,9 @@ npm install
 	nodemon -g >> 
 	consign --save >> inclusão de rotas
  	body-parser --save >> captura corpo das requisicoes http
+	nedb --save >> banco de dados javascript
+	express-validator --save >> validação de campos
+
+##
+
+nodemon "nomeDoArquivo" >> inicia o nodemon
