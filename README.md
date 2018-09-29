@@ -1,6 +1,6 @@
-# Restfull NodeJS
+# Restful NodeJS
 
-Projeto de uma api restfull com nodejs utilizando o banco de dados javacript NeDB.
+Projeto de uma api restful com nodejs utilizando o banco de dados javacript NeDB.
 
 
 ## Pré-requisitos
